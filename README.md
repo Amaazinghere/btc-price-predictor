@@ -1,1 +1,3 @@
-# btc-price-predictor
+# BTC Price Predictor
+
+Run using Streamlit Cloud.
